@@ -18,8 +18,16 @@
     "test:watch": "npm run test -- --watchAll",
     "prepublish": "npm run build && npm run docs:publish"
   },
-  "author": "suliyu",
-  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ckdlbc/block.git"
+  },
+  "author": "Arvinsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckdlbc/block/issues"
+  },
+  "homepage": "https://github.com/ckdlbc/block",
   "dependencies": {
     "@def/oss-deploy": "^0.0.5",
     "@types/axios": "^0.14.0",
