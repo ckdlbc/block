@@ -1,6 +1,6 @@
 # Block 是什么？
 
-Block 是一个专为 Axios.js 开发的**API 模块管理模式**。它采用集中式存储管理应用的所有 API 模块，并以相应的规则保证 API 以一种统一的方式进行调用。Block 未来将集成到 PP Core 与 Vuex Plugin 中。
+Block 是一个专为 Axios.js 开发的**API 模块管理模式**。它采用集中式存储管理应用的所有 API 模块，并以相应的规则保证 API 以一种统一的方式进行调用。Block已支持 Vuex Plugin。
 
 ### 什么是“API 模块管理模式”？
 
